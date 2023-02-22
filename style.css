@@ -1,0 +1,18 @@
+
+    *{font-size: 11px;
+        text-align: center;
+        color: hsl(228, 45%, 44%);
+    }
+    .container{
+    background:   hsl(240, 73%, 65%);
+    height: 80vh;
+    width: 70vw;
+    }
+    .card-inner{
+        background: #fff;
+    }
+    .card-inner-left{
+        background-image: url(images/bg-pattern-desktop.svg);
+
+
+    }
